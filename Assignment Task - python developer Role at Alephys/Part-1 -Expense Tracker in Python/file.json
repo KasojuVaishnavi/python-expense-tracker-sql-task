@@ -1,0 +1,50 @@
+[
+  {
+
+    "Name": "Ammu",
+    "salary": 28000,
+    "Electricity": 1500,
+    "Internet": 1000,
+    "Groceries": 4500,
+    "Entertainment": 2000,
+    "EMI": 5000
+  },
+  {
+    "Name": "Bhanu",
+    "salary": 35000,
+    "Electricity": 1800,
+    "Internet": 1200,
+    "Groceries": 5000,
+    "Entertainment": 3000,
+    "EMI": 4000
+  },
+  {
+    "Name": "Vaishnavi",
+    "salary": 60000,
+    "Electricity": 2000,
+    "Internet": 800,
+    "Groceries": 4000,
+    "Entertainment": 3000,
+    "EMI": 4200
+  },
+  {
+    
+    "Name": "Ravi",
+    "salary": 30000,
+    "Electricity": 2000,
+    "Internet": 1000,
+    "Groceries": 4000,
+    "Entertainment": 2000,
+    "EMI": 4000
+  },
+  {
+   
+    "Name": "Siri",
+    "salary": 30000,
+    "Electricity": 1000,
+    "Internet": 5500,
+    "Groceries": 4500,
+    "Entertainment": 2000,
+    "EMI": 5000
+  }
+]
